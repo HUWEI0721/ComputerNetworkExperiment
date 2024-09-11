@@ -1,0 +1,38 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="openai" />
+            <item index="1" class="java.lang.String" itemvalue="rasa_sdk" />
+            <item index="2" class="java.lang.String" itemvalue="scipy" />
+            <item index="3" class="java.lang.String" itemvalue="six" />
+            <item index="4" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="5" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="6" class="java.lang.String" itemvalue="pkg-resources" />
+            <item index="7" class="java.lang.String" itemvalue="cloudpickle" />
+            <item index="8" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="9" class="java.lang.String" itemvalue="torch" />
+            <item index="10" class="java.lang.String" itemvalue="cycler" />
+            <item index="11" class="java.lang.String" itemvalue="atari-py" />
+            <item index="12" class="java.lang.String" itemvalue="future" />
+            <item index="13" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="14" class="java.lang.String" itemvalue="gym" />
+            <item index="15" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="16" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tensorflow.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
